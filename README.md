@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Using Unsupervised Machine Learning for Cryptocurrencies Analysis
 #### Analysis by: Elaine Bermudez
   
 ## Project Overview
